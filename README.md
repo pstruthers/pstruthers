@@ -11,7 +11,7 @@ I graduated in May 2024 with a Bachelor's Degree in Computer Science from the Un
 * ✉️  You can contact me at [paige.struthers@gmail.com](mailto:paige.struthers@gmail.com)
 * 🚀  I'm currently working on [a game library platform with React](http://game-library-with-react.vercel.app/)
 * 🧠  I'm learning React, NextJS, and TailwindCSS
-* ⚡  I'm interested in both in-office and remote working
+* ⚡  I'm interested in working either on-site or remotely
 
 ### Skills
 
