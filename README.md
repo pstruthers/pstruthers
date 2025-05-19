@@ -6,12 +6,12 @@ Frontend Developer
 
 I graduated in May 2024 with a Bachelor's Degree in Computer Science from the University of Nebraska at Omaha.
 
-* 🌍  I'm based in Springfield, MO, USA
-* 🖥️  See my portfolio at [https://e-portfolio-tau-eight.vercel.app/](http://e-portfolio-tau-eight.vercel.app/)
+* 🌍  I'm based in Nixa, MO, USA
+* 🖥️  See my portfolio at [paigestruthers.com](paigestruthers.com)
 * ✉️  You can contact me at [paige.struthers@gmail.com](mailto:paige.struthers@gmail.com)
 * 🚀  I'm currently working on [a game library platform with React](http://game-library-with-react.vercel.app/)
-* 🧠  I'm learning React, NextJS, and TailwindCSS
-* ⚡  I'm interested in working either on-site or remotely
+* 🧠  I'm learning React, NextJS, TypeScript, and Redux
+* ⚡  I'm interested in working on-site or remotely
 
 ### Skills
 
